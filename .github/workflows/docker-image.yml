@@ -38,3 +38,4 @@ jobs:
           file: ./frontend-reactapp/frontend.Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/2300031872-exam-frontend:final
+
